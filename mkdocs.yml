@@ -1,11 +1,11 @@
-site_name: Prácticas en AWS para ASIR
+site_name: Introducción a la Nube
 use_directory_urls: false
 
 nav:
   - "Inicio": "index.md"
   - "Lanzamiento del Laboratorio": "practica00.md"
   - "UD01. Arquitectura en la nube de AWS": "ud01.md"
-  - "UD02. Incorporación Capa Informática":
+  - "UD02. Incorporación de una Capa Informática":
       - "Capa Informática": "ud02.md"
       - "Prácticas": "practica02.md"
   
